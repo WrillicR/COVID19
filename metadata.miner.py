@@ -1,6 +1,6 @@
 '''
 Check data by looking into JSON files 
-Akond Rahman 
+Me
 Apr 03, 2020 
 '''
 import os 
